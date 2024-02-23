@@ -7,6 +7,14 @@
 <h1>Olá</h1> 
 <h5> Sou o Bruno, bacharel em Sistemas de Informação e atualmente em busca de uma nova oportunidade no mercado.
 A 12 anos na área de T.I e como QA a 8 anos, dos quais me dediquei totalmente a mesma, dos quais minhas experiências envolvem:
+•	Realização de testes funcionais, nas plataformas IOS, Android, Web e Api.
+•	Especificação de casos de testes, criação de massa de dados para testes.
+•	Registro de Bugs, registro das evidências de testes, acompanhamento de estórias e das demandas realizados no Azure Devops e posteriormente no Jira (após migração de plataforma).
+•	Acompanhamento e realização das atividades através de deselvolvimento ágil, seguindo os ritos da metodologia.
+•	Execução de testes regressivos antes da publicação dos Apps nas lojas, junto com o time de QA, sendo testes manuais.
+•	Elaboração e realização de testes automatizados de api, utilizando Rest Assured sendo em linguagem java.
+•	Análise de logs no Elastic/Kibana na realização dos testes e também para análise de casos de produção, devido ao time trabalhar com sustentação.
+•	Realização de querys quando necessário, banco de dados Oracle e gerenciador de banco Dbeaver.
 
 <h3>Tecnologias e ferramentas:</h3>
 
