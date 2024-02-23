@@ -8,6 +8,7 @@
 <h5> Sou o Bruno, bacharel em Sistemas de Informação e atualmente em busca de uma nova oportunidade no mercado.
 A 12 anos na área de T.I e como QA a 8 anos, dos quais me dediquei totalmente a mesma, dos quais minhas experiências envolvem:
 
+
 <h3>Tecnologias e ferramentas:</h3>
 <div style="display: inline_block">
 
