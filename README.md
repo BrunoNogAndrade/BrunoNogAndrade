@@ -8,18 +8,15 @@
 <h5> Sou o Bruno, bacharel em Sistemas de Informação e atualmente em busca de uma nova oportunidade no mercado.
 A 12 anos na área de T.I e como QA a 8 anos, dos quais me dediquei totalmente a mesma, dos quais minhas experiências envolvem:
 
-
 <h3>Tecnologias e ferramentas:</h3>
-<div style="display: inline_block">
 
+<div style="display: inline_block">
  <img align="center" alt="-Java" height="48" width="58" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg">
 <img align="center" alt="-Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" />
 <img align="center" alt="-Cypress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />     
 <img align="center" alt="-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 <img align="center" alt="-Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="center" alt="-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-<img align="center" alt="-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-
 </div>
  
  <hr>
