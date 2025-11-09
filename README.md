@@ -5,7 +5,7 @@
 </div>
 
 <h1>Olá</h1> 
-<h5> Sou o Bruno, bacharel em Sistemas de Informação e atualmente em busca de uma nova oportunidade no mercado.
+<h5> Sou o Bruno, bacharel em Sistemas de Informação.
 A 12 anos na área de T.I e como QA a 8 anos, dos quais me dediquei totalmente a mesma, dos quais minhas experiências envolvem:<h5>
 <h5>•	Realização de testes funcionais, nas plataformas IOS, Android, Web e Api.<h5>
 <h5>•	Especificação de casos de testes, criação de massa de dados para testes.<h5>
