@@ -17,9 +17,14 @@ A 12 anos na área de T.I e como QA a 8 anos, dos quais me dediquei totalmente a
 <h5>•	Realização de querys quando necessário, banco de dados Oracle e gerenciador de banco Dbeaver.<h5>
 
 <h3>Tecnologias e ferramentas:</h3>
- <img align="center" alt="-Java" height="48" width="58" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg">
-
- 
+<div style="display: inline_block">
+<img align="center" alt="-Java" height="48" width="58" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg">
+<img align="center" alt="-Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" />
+<img align="center" alt="-Cypress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />     
+<img align="center" alt="-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+<img align="center" alt="-Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="center" alt="-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+</div>
  <hr>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoNogAndrade&layout=compact&langs_count=7&theme=midnight-purple"/>
  
